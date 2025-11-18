@@ -1,7 +1,11 @@
 <resources>
     <string name="app_name">HW_10_krylov_as</string>
-    <string name="your_name">Your name</string>
-    <string name="your_age">Your age</string>
-    <string name="receive_congratulations">Receive congratulations</string>
+    <string name="your_name">Твое имя</string>
+    <string name="your_age">Твой возраст</string>
+    <string name="receive_congratulations">Получить поздравление!</string>
+    <string name="say_congratulations">С днем рождения, </string>
+    <string name="say_age">Tеперь тебе </string>
+    <string name="say_years"> лет!</string>
+    <string name="_return">ОК!</string>
 
 </resources>

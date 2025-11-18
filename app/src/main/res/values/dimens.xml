@@ -3,4 +3,5 @@
     <dimen name="_8dp">8dp</dimen>
     <dimen name="_4dp">4dp</dimen>
     <dimen name="_TextViewDim">30sp</dimen>
+    <dimen name="_DimTextCongratulations">30sp</dimen>
 </resources>
