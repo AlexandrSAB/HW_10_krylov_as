@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW_10_krylov_as</string>
+    <string name="your_name">Your name</string>
+    <string name="your_age">Your age</string>
+    <string name="receive_congratulations">Receive congratulations</string>
+
+</resources>
